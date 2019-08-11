@@ -19,12 +19,12 @@ public class GithubDay1ApplicationTests {
         System.out.println("我是小白");
 
     }
-
     public void TestBanner() {
         int a = 1;
         int b = 2;
         int i = a + b;
+        String str = "hello";
+        System.out.println(str);
         System.out.println(i);
     }
-
 }
