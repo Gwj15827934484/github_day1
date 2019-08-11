@@ -20,4 +20,11 @@ public class GithubDay1ApplicationTests {
 
     }
 
+    public void TestBanner() {
+        int a = 1;
+        int b = 2;
+        int i = a + b;
+        System.out.println(i);
+    }
+
 }
