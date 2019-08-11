@@ -16,6 +16,8 @@ public class GithubDay1ApplicationTests {
         System.out.println("=====3=====");
         System.out.println("我是小黑");
         System.out.println("我是小黑，我寫了一行");
+        System.out.println("我是小白");
+
     }
 
 }
