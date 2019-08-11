@@ -19,6 +19,8 @@ public class GithubDay1ApplicationTests {
         System.out.println("我是小白");
 
     }
-    
-
+    public void TestBanner(){
+        String str = "hello";
+        System.out.println(str);
+    }
 }
