@@ -11,6 +11,7 @@ public class GithubDay1ApplicationTests {
 
     @Test
     public void contextLoads() {
+        System.out.println("=====1=====");
     }
 
 }
